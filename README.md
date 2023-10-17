@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <p align="center">
+    <div align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img height=192 src="https://github-readme-stats.vercel.app/api?username=ezhitnikovich&rank_icon=github&show_icons=true&theme=dracula" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img height=192 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhitnikovich&layout=compact&theme=dracula" />
+      </a>
+    </div>
+    <div align="center">
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=dracula" />
+      </a>
+    </div>
+  </p>
+</details>
