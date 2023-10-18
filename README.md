@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <summary>📊 Github Stats and Activity</summary>
   <p align="center">
     <div align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -30,5 +30,13 @@ Here are some ideas to get you started:
         <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=dracula" />
       </a>
     </div>
+  </p>
+</details>
+
+<details>
+  <p align="center">
+    <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" title="Go to Source">
+      <img height=192 src="https://leetcard.jacoblin.cool/ezhitnikovich" />
+    </a>
   </p>
 </details>
