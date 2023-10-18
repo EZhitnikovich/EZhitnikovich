@@ -17,19 +17,21 @@ Here are some ideas to get you started:
 <details> 
   <summary>📊 Github Stats and Activity</summary>
   <p align="center">
-    <div align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img height=192 src="https://github-readme-stats.vercel.app/api?username=ezhitnikovich&rank_icon=github&show_icons=true&theme=nord" />
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img height=192 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhitnikovich&layout=compact&theme=nord" />
       </a>
-    </div>
-    <div align="center">
-      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=nord" />
-      </a>
-    </div>
+  </p>
+</details>
+
+<details>
+  <summary>📊 GitHub streak</summary>
+  <p align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=nord" />
+    </a>
   </p>
 </details>
 
