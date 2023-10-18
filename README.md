@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details> 
-  <summary>📊 Github Stats and Activity</summary>
+  <summary>📊 Github Stats</summary>
   <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img height=192 src="https://github-readme-stats.vercel.app/api?username=ezhitnikovich&rank_icon=github&show_icons=true&theme=nord" />
