@@ -19,24 +19,25 @@ Here are some ideas to get you started:
   <p align="center">
     <div align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img height=192 src="https://github-readme-stats.vercel.app/api?username=ezhitnikovich&rank_icon=github&show_icons=true&theme=dracula" />
+        <img height=192 src="https://github-readme-stats.vercel.app/api?username=ezhitnikovich&rank_icon=github&show_icons=true&theme=nord" />
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img height=192 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhitnikovich&layout=compact&theme=dracula" />
+        <img height=192 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhitnikovich&layout=compact&theme=nord" />
       </a>
     </div>
     <div align="center">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=dracula" />
+        <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=nord" />
       </a>
     </div>
   </p>
 </details>
 
 <details>
+  <summary>📊 LeetCode stats</summary>
   <p align="center">
     <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" title="Go to Source">
-      <img height=192 src="https://leetcard.jacoblin.cool/ezhitnikovich" />
+      <img height=192 src="https://leetcard.jacoblin.cool/ezhitnikovich?theme=nord" />
     </a>
   </p>
 </details>
