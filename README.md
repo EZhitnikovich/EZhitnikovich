@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>📊 GitHub streak</summary>
+  <summary>📊 GitHub Streak</summary>
   <p align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=nord" />
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>📊 LeetCode stats</summary>
+  <summary>📊 LeetCode Stats</summary>
   <p align="center">
     <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" title="Go to Source">
       <img height=192 src="https://leetcard.jacoblin.cool/ezhitnikovich?theme=nord" />
