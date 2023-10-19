@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I’m currently working on [TimeTracker app](https://github.com/EZhitnikovich/TimeTracker)
-- 🌱 I’m currently learning Docker, ASP.NET and TypeScript (React)
+- 🌱 I’m currently learning ASP.NET, TypeScript (React) and Docker
 
 <div id="user-content-toc">
   <ul align="center">
