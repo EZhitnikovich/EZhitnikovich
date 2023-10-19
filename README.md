@@ -27,7 +27,7 @@
   <summary>📊 GitHub Streak</summary>
   <p align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=nord" />
+      <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=nord&border=2" />
     </a>
   </p>
 </details>
