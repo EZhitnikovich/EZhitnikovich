@@ -11,6 +11,7 @@
 </picture>
 
 <br>
+
 - 🔭 I’m currently working on [TimeTracker app](https://github.com/EZhitnikovich/TimeTracker)
 - 🌱 I’m currently learning ASP.NET, TypeScript (React) and Docker
 
