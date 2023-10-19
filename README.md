@@ -35,7 +35,7 @@
   <summary>📊 LeetCode Stats</summary>
   <p align="center">
     <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" title="Go to Source">
-      <img height=192 src="https://leetcard.jacoblin.cool/ezhitnikovich?theme=nord&border=3" />
+      <img height=192 src="https://leetcard.jacoblin.cool/ezhitnikovich?theme=nord" />
     </a>
   </p>
 </details>
