@@ -19,7 +19,7 @@
         <img height=192 src="https://github-readme-stats.vercel.app/api?username=ezhitnikovich&rank_icon=github&show_icons=true&theme=nord" />
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img height=192 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhitnikovich&layout=compact&theme=nord" />
+        <img height=192 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhitnikovich&theme=nord" />
       </a>
   </p>
 </details>
