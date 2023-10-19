@@ -1,14 +1,17 @@
-<ul align="center">
-  <summary><h1>Hi 👋, I'm Eugenii</h1></summary>
-</ul>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1>Hi 👋, I'm Eugenii</h1></summary>
+  </ul>
+</div>
 
 - 🔭 I’m currently working on [TimeTracker app](https://github.com/EZhitnikovich/TimeTracker)
 - 🌱 I’m currently learning Docker, ASP.NET and TypeScript (React)
 
-<ul align="center">
-  <summary><h2>Stats</h2></summary>
-</ul>
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2>Stats</h2></summary>
+  </ul>
+</div>
 <details> 
   <summary>📊 Github Stats</summary>
   <p align="center">
