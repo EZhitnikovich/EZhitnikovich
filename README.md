@@ -27,7 +27,7 @@
   <summary>📊 GitHub Streak</summary>
   <p align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=nord&border=3" />
+      <img align="center" height=192 src="https://streak-stats.demolab.com?user=EZhitnikovich&theme=nord" />
     </a>
   </p>
 </details>
@@ -35,7 +35,7 @@
   <summary>📊 LeetCode Stats</summary>
   <p align="center">
     <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" title="Go to Source">
-      <img height=192 src="https://leetcard.jacoblin.cool/ezhitnikovich?theme=nord" />
+      <img height=192 src="https://leetcard.jacoblin.cool/ezhitnikovich?theme=nord&border=3" />
     </a>
   </p>
 </details>
