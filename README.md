@@ -7,7 +7,11 @@
 - 🔭 I’m currently working on [TimeTracker app](https://github.com/EZhitnikovich/TimeTracker)
 - 🌱 I’m currently learning Docker, ASP.NET and TypeScript (React)
 
-### Stats
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Stats</h2></summary>
+  </ul>
+</div>
 <details> 
   <summary>📊 Github Stats</summary>
   <p align="center">
