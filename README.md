@@ -1,12 +1,12 @@
 <ul align="center">
-  <summary><h1 style="display: inline-block">Hi 👋, I'm Eugenii</h1></summary>
+  <summary><h1>Hi 👋, I'm Eugenii</h1></summary>
 </ul>
 
 - 🔭 I’m currently working on [TimeTracker app](https://github.com/EZhitnikovich/TimeTracker)
 - 🌱 I’m currently learning Docker, ASP.NET and TypeScript (React)
 
 <ul align="center">
-  <summary><h2 style="display: inline-block">Stats</h2></summary>
+  <summary><h2>Stats</h2></summary>
 </ul>
 
 <details> 
