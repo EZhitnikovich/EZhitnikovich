@@ -1,7 +1,11 @@
-### Hi 👋, I'm Eugenii
+<div>
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Eugenii</h1></summary>
+  </ul>
+</div>
 
 - 🔭 I’m currently working on [TimeTracker app](https://github.com/EZhitnikovich/TimeTracker)
-- 🌱 I’m currently learning ASP.NET and TypeScript (React)
+- 🌱 I’m currently learning Docker, ASP.NET and TypeScript (React)
 
 ### Stats
 <details> 
