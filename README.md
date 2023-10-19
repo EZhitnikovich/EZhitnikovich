@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stats
 <details> 
   <summary>📊 Github Stats</summary>
   <p align="center">
@@ -25,7 +26,6 @@ Here are some ideas to get you started:
       </a>
   </p>
 </details>
-
 <details>
   <summary>📊 GitHub Streak</summary>
   <p align="center">
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
     </a>
   </p>
 </details>
-
 <details>
   <summary>📊 LeetCode Stats</summary>
   <p align="center">
