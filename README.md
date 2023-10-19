@@ -1,14 +1,14 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/output/github-contribution-grid-snake.svg">
-</picture>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1>Hi 👋, I'm Eugenii</h1></summary>
   </ul>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/output/github-contribution-grid-snake.svg">
+</picture>
 
 - 🔭 I’m currently working on [TimeTracker app](https://github.com/EZhitnikovich/TimeTracker)
 - 🌱 I’m currently learning ASP.NET, TypeScript (React) and Docker
