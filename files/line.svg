@@ -11,7 +11,7 @@
     </linearGradient>
     
     <!-- Stitch 2 gradients together for seamless animation  -->
-    <pattern id="pattern" x="0" y="0" width="300%" height="0%" patternUnits="userSpaceOnUse">
+    <pattern id="pattern" x="0" y="0" width="300%" height="100%" patternUnits="userSpaceOnUse">
       <rect x="0" y="0" width="150%" height="100%" fill="url(#gradient)">
         <animate attributeType="XML"
                  attributeName="x"
@@ -19,7 +19,7 @@
                  dur="7s"
                  repeatCount="indefinite"/>
       </rect>
-      <rect x="-150%" y="0" width="150%" height="0%" fill="url(#gradient)">
+      <rect x="-150%" y="0" width="150%" height="100%" fill="url(#gradient)">
         <animate attributeType="XML"
                  attributeName="x"
                  from="-150%" to="0"
