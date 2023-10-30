@@ -1,6 +1,6 @@
 <picture>
   <source srcset="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/main/files/line.svg"/>
-  <img src="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/main/files/line.svg" width="100%" height=5/>
+  <img src="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/main/files/line.svg"/>
 </picture>
 <div id="user-content-toc">
   <ul align="center">
