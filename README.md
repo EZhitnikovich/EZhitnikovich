@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/main/files/line.svg" width="100%" height=5/>
+<picture>
+  <img src="https://raw.githubusercontent.com/EZhitnikovich/EZhitnikovich/main/files/line.svg" width="100%" height=5/>
+</picture>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1>Hi 👋, I'm Eugenii</h1></summary>
