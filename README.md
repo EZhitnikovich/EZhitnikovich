@@ -12,7 +12,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on [TimeTracker app](https://github.com/EZhitnikovich/TimeTracker)
+- 🔭 I'm currently working on something secret 😅
 - 🌱 I’m currently learning ASP.NET, TypeScript (React) and Docker
 
 <div id="user-content-toc">
